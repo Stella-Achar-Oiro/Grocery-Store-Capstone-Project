@@ -87,13 +87,13 @@ Collaborators
 
 Contact Information
 
-1. Overview Of the Project
+##1. Overview Of the Project
 i. Description of dataset
-2. Application / Deployed Links
+##2. Application / Deployed Links
 App	Deployed links
 Streamlit App	Sales forecasring App with streamlit
 Api	Sales forecasring App with FastAPI
-3. Technology Stack
+##3. Technology Stack
 Technology	Version
 Python	3.9
 Sckit-learn	0.24.1
@@ -101,13 +101,13 @@ XGboost	1.7.3
 FastAPI	0.98.0
 Streamlit	1.23.1
 Uvicorn	0.22.0
-4. Deliverables
+##4. Deliverables
 A jupyter notebook for training a classification model
 A sales forecasting Model
 An API App built with FastApi
 A Streamlit app that make calls to the build and hosted API
 A Dockerfile for easy deployment
-5. Installation
+##5. Installation
 Clone the repository to your local machine:
 
     git clone https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian.git
@@ -147,9 +147,9 @@ At the root of your repository in your terminal root :: Grocery-Store-Forecastin
         streamlit run src\app\app.py
 Open your browser and go to http://localhost:8501
 
-7. Power BI Visualization
+##7. Power BI Visualization
  visualization.mp4 
-8. Contributing Instructions
+##8. Contributing Instructions
 To contribute to the Sentiment Analysis API, follow these guidelines:
 
 Fork the repository.
@@ -157,16 +157,23 @@ Create a new branch: git checkout -b my-new-feature
 Make your changes and commit them: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
 Create a new pull request
-9. Collaborators
+##9. Collaborators
 Name
 Bright Eshun
+
 Kwasi Asomani
+
 Stella Oiro
+
 Linda Azdigbli
+
 Foster Kwabena Abrefa
+
 Joshua
-10. Contact Information
+
+##10. Contact Information
 Name	Twitter	LinkedIn	GitHub	Hugging Face
 Bright Eshun	@bright_eshun_	@brighteshun	@bright136	@bright1
+
 Contributing
 Do you have anything to add or fix? I'll be happy to talk about it! Open an issue/PR :)
